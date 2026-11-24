@@ -1,0 +1,42 @@
+
+# Model weights
+checkpoints/
+model_weights/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# Training outputs
+runs/
+outputs/
+wandb/
+*.log
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
