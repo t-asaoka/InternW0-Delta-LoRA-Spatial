@@ -40,3 +40,4 @@ __pycache__/
 *.zip
 *.tar
 *.tar.gz
+*.egg-info/
